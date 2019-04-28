@@ -1,4 +1,1 @@
-Hi!
-First GIT file
-Second line
-Third line
+Hello!
